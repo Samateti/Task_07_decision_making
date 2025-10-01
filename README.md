@@ -59,9 +59,9 @@ This project analyzes the 2025 Syracuse Women’s Lacrosse season data to produc
    ```
 
 4. Outputs:  
-   - Figures saved to `visuals/`  
-   - Summary statistics + logs in console  
-   - Stakeholder Report in `reports/`  
+   - Figures   
+   - Summary statistics + logs  
+   - Stakeholder Report  
 
 ---
 
